@@ -32,7 +32,7 @@
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 ## ⚙ 기술 스택 (Tech Stack)
 <div align ="left">
-<img src="https://img.shields.io/badge/java-C00000?style=for-the-badge&logo=coffeescript&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/java-C00000?style=for-the-badge&logo=coffeescript&logoColor=white"> -->
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
